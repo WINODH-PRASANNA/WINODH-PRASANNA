@@ -7,11 +7,11 @@
 
 🎓 BIT Student @ Univercity of Moratuwa 🎓
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://WINODH-PRASANNA.github.io/My-Portfolio/ )
+- 🔭 Here's my [portfolio](https://WINODH-PRASANNA.github.io/My-Portfolio/ ).
 - 🌱 I’m currently learning Bachelor of Information Technology at Univercity of Moratuwa.
 - 👩‍💻 A friendly and passionate individual who finds joy in coding.
-- 🏡 Lives in **Kurunegala, Sri Lanka**
-- 📞Social Presence
+- 🏡 Lives in **Kurunegala, Sri Lanka**.
+- 📞Social Presence :
 <br /><br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/winodh-prasanna/) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />]() [<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />](https://www.pinterest.com/winodhprasannablog/_boards/) [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/profile/winodh_prasanna1) [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />](https://leetcode.com/u/Winodh-Prasanna/)
 
 ### I code in
