@@ -4,8 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Web+Designer...;Software+Developer..."></a>
 </p>
 
-🎓 **BIT Student @ Univercity of Moratuwa** 🎓
-<br><br>
+<h2 align="center"><b>🎓 BIT Student @ Univercity of Moratuwa 🎓</b></h2>
+<br><br
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [**Portfolio**](https://WINODH-PRASANNA.github.io/My-Portfolio/ ).
 - 🌱 I’m currently learning **Bachelor of Information Technology** at **Univercity of Moratuwa**.
