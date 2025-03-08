@@ -17,14 +17,14 @@
 ### I code in
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,java,python,php,mysql,nodejs,react,tailwind,mongodb,spring,dotnet,cs,angular,laravel&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,php,mysql,nodejs,react,tailwind,mongodb,spring,dotnet,cs,angular,laravel&perline=15" />
   </a>
 </p>
 
 ### IDE and Tools I Use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,sublime,ps,ai,xd,kali,codepen,dart,flutter,visualstudio,androidstudio&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,eclipse,sublime,ps,ai,xd,kali,codepen,dart,flutter,visualstudio,androidstudio&perline=15" />
   </a>
 </p>
 
