@@ -12,7 +12,7 @@
 - 👩‍💻 A friendly and passionate individual who finds joy in coding.
 - 🏡 Lives in **Kurunegala, Sri Lanka**
 - 📞Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/winodh-prasanna/) <br/> [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />]() <br /> [<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />](https://www.pinterest.com/winodhprasannablog/_boards/) <br/> [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/profile/winodh_prasanna1) <br/> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />](https://leetcode.com/u/Winodh-Prasanna/)
+<br /><br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/winodh-prasanna/) <br/> [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />]() <br /> [<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />](https://www.pinterest.com/winodhprasannablog/_boards/) <br/> [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/profile/winodh_prasanna1) <br/> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />](https://leetcode.com/u/Winodh-Prasanna/)
 
 ### I code in
 <p align="left">
