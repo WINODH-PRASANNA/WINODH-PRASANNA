@@ -1,5 +1,5 @@
 <!-- # Hi there 👋 It's me, Winodh Prasanna... -->
-<h1 align="center"><b>Hi there 👋 It's me, Winodh Prasanna</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><b>Hi there 👋 It's me, Winodh Prasanna</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;UI/UX+Designer;Open+Source+Contributor"></a>
@@ -19,7 +19,7 @@
 <!-- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> <img width="50" height="50" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, bootstrap, js, git, java, python, php, mysql, nodejs, react, tailwind, mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,java,python,php,mysql,nodejs,react,tailwind,mongodb&perline=14" />
   </a>
 </p>
 
