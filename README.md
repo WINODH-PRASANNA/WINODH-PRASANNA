@@ -1,5 +1,5 @@
 <!-- # Hi there 👋 It's me, Winodh Prasanna... -->
-<h1 align="center; font-family: Georgia, 'Times New Roman', Times, serif; color: cyan;"><b>Hi there 👋 It's me, Winodh Prasanna...</b></h1>
+<h1 align="center"><b>Hi there 👋 It's me, Winodh Prasanna...</b></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Web+Designer;Software+Developer;Open+Source+Contributor"></a>
@@ -23,7 +23,11 @@
 </p>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/> <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="adobe-photoshop"/> <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/console.png" alt="console"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/vmware.png" alt="vmware"/> <img width="50" height="50" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,intellij,pycharm,netbeans,eclipse,sublime,notepad++,ps,ai,xd,terminal,vmware,kali&perline=15" />
+  </a>
+</p>
 
 
 ### 💻 Workspace Spec
