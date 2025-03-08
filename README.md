@@ -1,4 +1,4 @@
-<!-- # Hi there 👋 It's me, Winodh Prasanna... -->
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center"><b>Hi there 👋 It's me, Winodh Prasanna 😉</b></h1>
 
 <p align="center">
