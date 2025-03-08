@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center"><b>Hi there 👋 It's me, Winodh Prasanna 😉</b></h1>
 
 <p align="center">
@@ -7,7 +6,7 @@
 
 🎓 **BIT Student @ Univercity of Moratuwa** 🎓
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [**portfolio**](https://WINODH-PRASANNA.github.io/My-Portfolio/ ).
+- 🔭 Here's my [**Portfolio**](https://WINODH-PRASANNA.github.io/My-Portfolio/ ).
 - 🌱 I’m currently learning **Bachelor of Information Technology** at **Univercity of Moratuwa**.
 - 👩‍💻 A friendly and passionate individual who finds joy in coding.
 - 🏡 Lives in **Kurunegala, Sri Lanka**.
@@ -30,8 +29,8 @@
 
 
 ### 💻 Workspace Spec
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=WINODH-PRASANNA&theme=dark&show_icons=true&&hide=issues,contribs)
+![Winodh Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=WINODH-PRASANNA&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Winodh-Prasanna?theme=catppuccinMocha&font=Noto%20Sans%20Cherokee&ext=heatmap)
+![Winodh Prasanna's LeetCode Stats](https://leetcard.jacoblin.cool/Winodh-Prasanna?theme=catppuccinMocha&font=Noto%20Sans%20Cherokee&ext=heatmap)
 
-[![Winodh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WINODH-PRASANNA&bg_color=000000&color=ffffff&line=009e3f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Winodh Prasanna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WINODH-PRASANNA&bg_color=000000&color=ffffff&line=009e3f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
