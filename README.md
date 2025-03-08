@@ -63,7 +63,7 @@
 ### IDE and Tools I Use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,intellij,pycharm,netbeans,eclipse,sublime,notepad++,ps,ai,xd,terminal,vmware,kali&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,sublime,ps,ai,xd,kali&perline=15" />
   </a>
 </p>
 
