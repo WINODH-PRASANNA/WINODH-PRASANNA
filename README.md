@@ -1,8 +1,8 @@
 <!-- # Hi there 👋 It's me, Winodh Prasanna... -->
-<h1 align="center"><b>Hi there 👋 It's me, Winodh Prasanna</b></h1>
+<h1 align="center"><b>Hi there 👋 It's me, Winodh Prasanna 😁</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Web+Designer...;Software+Developer..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Web+Designer...;Software+Developer..."></a>
 </p>
 
 🎓 BIT Student @ Univercity of Moratuwa 🎓
@@ -18,14 +18,14 @@
 ### I code in
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,java,python,php,mysql,nodejs,react,tailwind,mongodb,spring,dotnet,cs,angular,laravel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,java,python,php,mysql,nodejs,react,tailwind,mongodb,spring,dotnet,cs,angular,laravel&perline=15" />
   </a>
 </p>
 
 ### IDE and Tools I Use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,sublime,notepad++,ps,ai,xd,kali,codepen,dart,flutter,visualstudio,androidstudio&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse,sublime,ps,ai,xd,kali,codepen,dart,flutter,visualstudio,androidstudio&perline=15" />
   </a>
 </p>
 
