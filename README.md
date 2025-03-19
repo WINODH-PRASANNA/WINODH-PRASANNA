@@ -7,7 +7,7 @@
 <b>🎓 **BIT Student @ Univercity of Moratuwa** 🎓</b>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [**Portfolio**](https://WINODH-PRASANNA.github.io/My-Portfolio/ ).
-- 🌱 I’m currently learning ***Bachelor of Information Technology*** at **Univercity of Moratuwa**.
+- 🌱 I’m currently learning **Bachelor of Information Technology** at **Univercity of Moratuwa**.
 - 👩‍💻 A friendly and passionate individual who finds joy in coding.
 - 🏡 Lives in **Kurunegala, Sri Lanka**.
 - 📞Social Presence :
