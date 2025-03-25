@@ -16,7 +16,7 @@
 ### I code in
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,php,mysql,nodejs,react,tailwind,mongodb,spring,dotnet,cs,angular,laravel&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,java,python,php,mysql,nodejs,react,materialui,vite,mongodb,spring,dotnet,cs,angular,laravel&perline=15" />
   </a>
 </p>
 
