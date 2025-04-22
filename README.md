@@ -23,7 +23,7 @@
 ## IDE and Tools I Use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,eclipse,sublime,ps,ai,xd,kali,dart,flutter,visualstudio,androidstudio,wordpress&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,postman,postman,eclipse,sublime,ps,ai,xd,kali,dart,flutter,visualstudio,androidstudio,wordpress&perline=15" />
   </a>
 </p>
 
