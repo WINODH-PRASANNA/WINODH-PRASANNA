@@ -37,4 +37,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WINODH-PRASANNA&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WINODH-PRASANNA&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WINODH-PRASANNA&layout=compact)
