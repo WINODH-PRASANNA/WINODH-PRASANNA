@@ -31,6 +31,10 @@
 ## 💻 GitHub Status
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WINODH-PRASANNA&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WINODH-PRASANNA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WINODH-PRASANNA&theme=tokyonight" alt="GitHub Streak" />
