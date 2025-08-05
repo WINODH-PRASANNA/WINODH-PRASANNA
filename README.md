@@ -42,10 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WINODH-PRASANNA&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 💻 Workspace Spece
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WINODH-PRASANNA&bg_color=000000&color=ffffff&line=009e3f&point=ffffff&area=true&hide_border=true" />
-  <br><br>
-  <img src="https://leetcard.jacoblin.cool/Winodh-Prasanna?theme=catppuccinMocha&font=Noto%20Sans%20Cherokee&ext=heatmap" />
-</p>
