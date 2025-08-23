@@ -90,10 +90,6 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
   <i>Let's connect and collaborate!</i>  
   <br>
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Yes!-success?style=for-the-badge">  
@@ -107,4 +103,8 @@
 
 ---
 
-✨ README designed with ❤️ by **Winodh Prasanna 😃**
+<h3 align="center">
+✨ README designed with ❤️ by <b>Winodh Prasanna 😎🛠️</b>
+</h3>
+
+
