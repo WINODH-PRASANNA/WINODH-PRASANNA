@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+<h3> 👨‍💻 About Me  </h3>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+<h3> 🌐 Connect With Me  </h3>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/winodh-prasanna/) 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=61575625475553&mibextid=ZbWKwL) 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ I Code In  
+<h3> 🛠️ I Code In  </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 ---
 
-## ⚡ IDE & Tools I Use  
+<h3> ⚡ IDE & Tools I Use  </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+<h3> 📊 GitHub Analytics  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WINODH-PRASANNA&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
@@ -73,7 +73,7 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+<h3> 🏆 GitHub Achievements  </h3>
 
 <div align="center">
 
