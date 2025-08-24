@@ -18,7 +18,7 @@
 
 - 🎓 **BIT Student @ University of Moratuwa**  
 - 🌱 Pursuing **Diploma in Computer Science** at **IMIT Campus**  
-- 🔭 Here's my [**Portfolio Website**] 🚀(https://WINODH-PRASANNA.github.io/My-Portfolio/)  
+- 🔭 Here's my [**Portfolio Website**](https://WINODH-PRASANNA.github.io/My-Portfolio/)  
 - 👩‍💻 A friendly and passionate individual who finds joy in coding  
 - 🏡 Lives in **Galgamuwa, Kurunegala, Sri Lanka**  
 - ⚡ Fun fact: I love **Photography & Digital Art**  
@@ -33,7 +33,6 @@
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />](https://leetcode.com/u/Winodh-Prasanna/) 
 [<img src="https://img.shields.io/badge/-YouTube-%23E60023?style=for-the-badge&logo=YouTube&logoColor=white" />]()  
 
----
 
 <h3> 🛠️ I Code In  </h3>
 
@@ -43,7 +42,6 @@
   </a>
 </p>
 
----
 
 <h3> ⚡ IDE & Tools I Use  </h3>
 
@@ -53,7 +51,7 @@
   </a>
 </p>
 
----
+
 
 <h3> 📊 GitHub Analytics  </h3>
 
@@ -70,7 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WINODH-PRASANNA&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>  
 
----
+
 
 <h3> 🏆 GitHub Achievements  </h3>
 
@@ -86,7 +84,6 @@
 </div>
 
 
----
 
 <p align="center">
   <i>Let's connect and collaborate!</i>  
