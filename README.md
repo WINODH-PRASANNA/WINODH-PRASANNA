@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WINODH-PRASANNA&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/WINODH-PRASANNA?style=for-the-badge&color=lightgrey" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/WINODH-PRASANNA?style=for-the-badge&color=blueviolet" alt="GitHub Followers">
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/WINODH-PRASANNA?tab=repositories">
-    <img src="https://img.shields.io/badge/Check%20out%20my%20work-Click%20here!-blueviolet?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Check%20out%20my%20work-Click%20here!-blueviolet?style=for-the-badge&color=blueviolet">
   </a>
 </p>
 
