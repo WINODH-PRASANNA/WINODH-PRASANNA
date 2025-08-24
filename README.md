@@ -86,6 +86,7 @@
 
 
 <p align="center">
+  <br>
   <i>Let's connect and collaborate!</i>  
   <br>
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Yes!-success?style=for-the-badge">  
