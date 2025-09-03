@@ -72,7 +72,7 @@
 
 <h3> 🏆 GitHub Achievements  </h3>
 
-<div align="center">
+<div align="center" justify-content="center">
 
 | Achievement | Badge |
 |-------------|-------|
