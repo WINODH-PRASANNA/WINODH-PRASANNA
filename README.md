@@ -72,14 +72,14 @@
 
 <h3> 🏆 GitHub Achievements  </h3>
 
-<div align="center" justify-content="center">
+<div align="center">
 
-| Achievement | Badge |
-|-------------|-------|
-| **YOLO** | <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50"/> |
-| **Pull Shark** | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50"/> |
-| **Pair Extraordinaire** | <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="50"/> |
-| **Quickdraw** | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="50"/> |
+| Achievement | Badge | Earned |
+|-------------|-------|--------|
+| **YOLO** | <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="50"/> | 1x |
+| **Pull Shark** | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="50"/> | 1x |
+| **Pair Extraordinaire** | <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="50"/> | 1x |
+| **Quickdraw** | <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="50"/> | 1x |
 
 </div>
 
