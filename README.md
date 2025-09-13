@@ -101,7 +101,7 @@
 ---
 
 <h3 align="center">
-✨ README designed with ❤️ by <b>Winodh Prasanna 😎🛠️</b>
+✨ README DESIGNED BY 🚀😉 WINODH PRASANNA 😎🛠️
 </h3>
 
 
