@@ -19,8 +19,7 @@
 - 🎓 **BIT Student @ University of Moratuwa**  
 - 🔭 Check out my [**Portfolio Website**](https://WINODH-PRASANNA.github.io/My-Portfolio/)  
 - 👩‍💻 A friendly and passionate individual who finds joy in coding  
-- 🏡 Lives in **Galgamuwa, Kurunegala, Sri Lanka**  
-- ⚡ Fun fact: I love **Photography & Digital Art**  
+- 🏡 Lives in **Galgamuwa, Kurunegala, Sri Lanka**   
 
 
 <h3> 🌐 Connect With Me  </h3>
