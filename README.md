@@ -16,14 +16,10 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<br><br>
-
 - 🎓 **BIT Student @ University of Moratuwa**  
 - 🔭 Check out my [**Portfolio Website**](https://WINODH-PRASANNA.github.io/My-Portfolio/)  
 - 👩‍💻 A friendly and passionate individual who finds joy in coding  
 - 🏡 Lives in **Galgamuwa, Kurunegala, Sri Lanka**
-
-  <br> 
 
 
 <h3> 🌐 Connect With Me  </h3>
@@ -36,7 +32,7 @@
 [<img src="https://img.shields.io/badge/Coddy-4B32C6?style=for-the-badge&logo=coddy&logoColor=white" />](https://coddy.tech/profile/winodh_prasanna) 
 [<img src="https://img.shields.io/badge/-YouTube-%23E60023?style=for-the-badge&logo=YouTube&logoColor=white" />]()  
 
-<br>
+<br><br>
 
 
 <h3> 🛠️ I Code In  </h3>
