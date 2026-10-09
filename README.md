@@ -16,6 +16,8 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
+<br>
+
 - 🎓 **BIT Student @ University of Moratuwa**  
 - 🔭 Check out my [**Portfolio Website**](https://WINODH-PRASANNA.github.io/My-Portfolio/)  
 - 👩‍💻 A friendly and passionate individual who finds joy in coding  
